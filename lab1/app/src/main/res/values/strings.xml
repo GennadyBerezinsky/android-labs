@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="header">Lab1 Berezinsky</string>
+    <string name="input">Please input question</string>
+    <string name="hint_noText">Please input text</string>
+    <string name="hint_option">Please select option</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="button1">OK</string>
+</resources>
